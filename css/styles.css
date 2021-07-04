@@ -1,0 +1,116 @@
+header {
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 98%;  
+}
+body {
+    background-color: #1f62a1;
+    margin: auto;
+}
+footer{
+    position: relative;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    width: 98%;
+    padding: 10px;   
+    /* bottom: 80px; */
+    margin-bottom: 0px;
+}
+.A , .text1 {
+    position: relative;
+    margin: 0px 0px;
+    padding: 10px;
+    width: 98%;
+    background-color: maroon;
+    color: white;
+    font-family: 'Roboto', sans-serif;  
+}
+.About{
+    position: relative;
+    top: 23px;
+}
+.Contact {
+    position: relative;
+    left: 85px;
+}
+.My {
+    position: relative;
+    left: 215px;
+    bottom: 23px;
+    
+}   
+.B {
+    position: relative;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.C {
+    position: relative;
+    bottom: 150px;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+li {
+    position: relative;
+    bottom: 150px;
+    padding: 15px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.Facebook{
+    position: relative;
+    padding: 10px;
+    left: 100px;
+    color: purple;
+    
+}
+.GitHub{
+    position: relative;
+    padding: 10px;
+    left: 223px;
+    bottom: 42px;
+    color: pink;
+}
+.Twitter{
+    position: relative;
+    padding: 10px;
+    left: 325px;
+    bottom: 86px;
+    color: darkred;
+}
+.LinkedIn{
+    position: relative;
+    padding: 10px;
+    left: 427px;
+    bottom: 129px;
+    color: lightblue;
+}
+.Send{
+    position: relative;
+    padding: 10px;
+    left: 540px;
+    bottom: 172px;
+    color: orange;
+}
+.Call{
+    position: relative;
+    padding: 10px;
+    left: 647px;
+    bottom: 215px;
+    color: lightgreen;
+}
+
+#copycreated {
+    text-align-last: right;
+}
+div{
+    font-size: 20px;
+}
